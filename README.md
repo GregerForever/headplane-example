@@ -1,2 +1,4 @@
 # headplane-example
-Here's the translation: Example of a fully configured Headscale docker container with integrated Headplane GUI.
+Example of a fully configured Headscale docker compose files with integrated Headplane GUI.
+
+This repo created for [Samohosting.ru Forum](https://forum.samohosting.ru)
